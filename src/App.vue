@@ -4,10 +4,12 @@
       <v-app id="inspire" class="app">
         <app-drawer class="app--drawer"></app-drawer>
         <app-toolbar class="app--toolbar"></app-toolbar>
+        <!--內容頁面-->
         <v-content>
-          <!-- Page Header -->
+          <!-- Page Header 頁頭-->
           <page-header v-if="$route.meta.breadcrumb"></page-header>
           <div class="page-wrapper">
+            <!--路由內容頁面-->
             <router-view></router-view>
           </div>   
            <!-- App Footer -->

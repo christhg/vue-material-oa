@@ -1,5 +1,5 @@
 const Menu =  [
-  { header: 'Apps' },
+  { header: 'OA線上平台Apps' },
   {
     title: 'Dashboard',
     group: 'apps',
