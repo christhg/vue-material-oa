@@ -1,8 +1,8 @@
 
-# Vue Material Admin
+# Vue Material OA
 
 ## Vue Material OA
-* clone from https://github.com/tookit/vue-material-admin.git
+* clone from [Vue Material Admin](https://github.com/tookit/vue-material-admin.git)
 
 ## Plan and features
 * will create a new template by vue-cli 3.x 
